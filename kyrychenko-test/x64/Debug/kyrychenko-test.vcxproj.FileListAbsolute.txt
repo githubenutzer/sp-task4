@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Studying\Семестр 5\СП курсова\task4\kyrychenko-test\x64\Debug\gtest.pdb
+C:\Users\Alex\Documents\Studying\Семестр 5\СП курсова\task4\kyrychenko-test\x64\Debug\gtest_main.pdb
+C:\Users\Alex\Documents\Studying\Семестр 5\СП курсова\task4\kyrychenko-test\kyrychenko-test\x64\Debug\kyrychen.A788B49D.Up2Date
+C:\Users\Alex\Documents\Studying\Sem5\SP\task4\kyrychenko-test\x64\Debug\gtest.pdb
+C:\Users\Alex\Documents\Studying\Sem5\SP\task4\kyrychenko-test\x64\Debug\gtest_main.pdb
+C:\Users\Alex\Documents\Studying\Sem5\SP\task4\kyrychenko-test\kyrychenko-test\x64\Debug\kyrychen.A788B49D.Up2Date
